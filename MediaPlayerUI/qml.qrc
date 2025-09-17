@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>back.png</file>
+        <file>heart.png</file>
+        <file>menu.png</file>
+        <file>next.png</file>
+        <file>video-pause-button.png</file>
+        <file>play-button.png</file>
+        <file>bg.jpg</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>Roja-Roja.mp3</file>
+    </qresource>
+</RCC>
