@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>assets/BrushedMetal.jpg</file>
+        <file>assets/cool.svg</file>
+        <file>assets/fan_fill.svg</file>
+        <file>assets/fan_off.svg</file>
+        <file>assets/fan_outline.svg</file>
+        <file>assets/heat.svg</file>
+        <file>ClimateControls.qml</file>
+        <file>ZoneControls.qml</file>
+    </qresource>
+</RCC>

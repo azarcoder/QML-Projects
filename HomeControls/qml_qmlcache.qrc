@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="assets/BrushedMetal.jpg">assets/BrushedMetal.jpg</file>
+        <file alias="assets/cool.svg">assets/cool.svg</file>
+        <file alias="assets/fan_fill.svg">assets/fan_fill.svg</file>
+        <file alias="assets/fan_off.svg">assets/fan_off.svg</file>
+        <file alias="assets/fan_outline.svg">assets/fan_outline.svg</file>
+        <file alias="assets/heat.svg">assets/heat.svg</file>
+    </qresource>
+</RCC>
